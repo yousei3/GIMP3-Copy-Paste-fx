@@ -1,4 +1,4 @@
-# Copy Paste Layer fx for GIMP 3
+# GIMP3 Plugin: Copy Paste Layer fx
 
 # English
 ## Overview
